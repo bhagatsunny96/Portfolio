@@ -2,7 +2,7 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sunnybhagat.live/",
+  "homepage": "http://bhagatsunny96.github.io/Portfolio/",
   "dependencies": {
     "@merc/react-timeline": "^0.1.42",
     "@testing-library/jest-dom": "^5.11.9",
