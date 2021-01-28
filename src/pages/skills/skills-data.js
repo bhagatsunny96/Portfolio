@@ -15,6 +15,7 @@ import L_SQLITE from "../../assets/img/skills/sqlite.svg";
 import L_PHP from "../../assets/img/skills/php.svg";
 import L_C from "../../assets/img/skills/c.svg";
 import L_CPLUS from "../../assets/img/skills/c++.png";
+import L_GITHUB from "../../assets/img/skills/github.webp";
 export const skills ={
     frontend: [
         {
@@ -81,6 +82,12 @@ export const skills ={
             imgSrc: L_HEROKU,
             skillName: "Heroku",
           },
+          {
+            link: "https://github.com/",
+            imgAltText: "GitHub",
+            imgSrc: L_GITHUB,
+            skillName: "GitHub",
+          }
     ],
     programmingLanguages : [
         {
